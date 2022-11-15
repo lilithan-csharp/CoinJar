@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinJar", "CoinJar\CoinJar.csproj", "{D7279144-65FF-4A10-A4B0-E67AD46B1FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinJarServices", "CoinJarServices\CoinJarServices.csproj", "{07E2B00B-B11F-44AC-9752-9053A1B6D01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinJarServices.Tests", "CoinJarServices.Tests\CoinJarServices.Tests.csproj", "{79F44DA1-4727-408A-ADC6-50793CF32701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7279144-65FF-4A10-A4B0-E67AD46B1FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7279144-65FF-4A10-A4B0-E67AD46B1FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7279144-65FF-4A10-A4B0-E67AD46B1FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7279144-65FF-4A10-A4B0-E67AD46B1FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E2B00B-B11F-44AC-9752-9053A1B6D01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E2B00B-B11F-44AC-9752-9053A1B6D01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E2B00B-B11F-44AC-9752-9053A1B6D01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E2B00B-B11F-44AC-9752-9053A1B6D01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F44DA1-4727-408A-ADC6-50793CF32701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F44DA1-4727-408A-ADC6-50793CF32701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F44DA1-4727-408A-ADC6-50793CF32701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F44DA1-4727-408A-ADC6-50793CF32701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF22EC5-6BE7-4313-95A3-DEEC098408A3}
+	EndGlobalSection
+EndGlobal

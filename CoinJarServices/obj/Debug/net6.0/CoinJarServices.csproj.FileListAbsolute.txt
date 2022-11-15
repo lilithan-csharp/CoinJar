@@ -1,0 +1,12 @@
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\bin\Debug\net6.0\CoinJarServices.deps.json
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\bin\Debug\net6.0\CoinJarServices.dll
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\bin\Debug\net6.0\CoinJarServices.pdb
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.csproj.AssemblyReference.cache
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.AssemblyInfoInputs.cache
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.AssemblyInfo.cs
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.csproj.CoreCompileInputs.cache
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.dll
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\refint\CoinJarServices.dll
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\CoinJarServices.pdb
+C:\Users\lilithan\source\repos\CoinJar\CoinJarServices\obj\Debug\net6.0\ref\CoinJarServices.dll

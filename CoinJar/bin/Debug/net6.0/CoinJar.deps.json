@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CoinJar/1.0.0": {
+        "dependencies": {
+          "CoinJarServices": "1.0.0"
+        },
+        "runtime": {
+          "CoinJar.dll": {}
+        }
+      },
+      "CoinJarServices/1.0.0": {
+        "runtime": {
+          "CoinJarServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoinJar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoinJarServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
