@@ -41,7 +41,7 @@ namespace CoinJar
 
                 if (userInput == "2")
                 {
-                    var totalAmount = _service.GetVolume();
+                    var totalAmount = _service.GetTotalAmount();
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine($"The total amount in the jar is ${totalAmount}");
                     Console.ResetColor();
